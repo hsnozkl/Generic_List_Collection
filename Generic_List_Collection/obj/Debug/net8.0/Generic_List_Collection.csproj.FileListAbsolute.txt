@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\bin\Debug\net8.0\Generic_List_Collection.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\bin\Debug\net8.0\Generic_List_Collection.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\bin\Debug\net8.0\Generic_List_Collection.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\bin\Debug\net8.0\Generic_List_Collection.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\bin\Debug\net8.0\Generic_List_Collection.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\refint\Generic_List_Collection.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\Generic_List_Collection.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Generic_List_Collection\obj\Debug\net8.0\ref\Generic_List_Collection.dll
